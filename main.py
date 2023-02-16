@@ -27,4 +27,4 @@
 #     # print(line,end='') Prints text
 
 with open("period7.txt", "w") as f:
-  f.write("this mess is over")
+  f.write("this mess is over") #this makes a new txt file and puts the words on f write into them
